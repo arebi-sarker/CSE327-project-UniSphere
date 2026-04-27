@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./client/src/assets/logo.svg" alt="MERN Social App Logo" width="120" />
+  
 </p>
 
-<h1 align="center">MERN Social App</h1>
+<h1 align="center">UniSphere</h1>
 <p align="center"><i>A modern social media feed clone built with React, Vite, Tailwind, and Express backend.</i></p>
 
 <p align="center">
