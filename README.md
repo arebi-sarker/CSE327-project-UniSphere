@@ -163,13 +163,8 @@ npm run dev
 - 📸 Enhance Discover and Connections pages.  
 - 🚀 Expand backend APIs for posts, chat, and notifications.  
 
----
+ajaira
 
-## 👤 Author
-Developed by **Mern Social App Group**  
-Final-year CSE student at North South University, Bangladesh.
-
----
 
 ## 📜 License
 This project is licensed under the MIT License.
